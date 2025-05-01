@@ -4,5 +4,5 @@
  O vídeo original foi obtido a partir do endereço: https://www.youtube.com/watch?v=r9buAwVBDhA&t=1s <br>
  Para trabalho da faculdade <br>
  
-![jogo.png](jogoMarioHTML/images/jogo.png)
-![mario.png](jogoMarioHTML/images/mario.png)
+![jogo.png](/images/jogo.png)
+![mario.png](/images/mario.png)
